@@ -5,7 +5,7 @@
 - 🎉 Gosto de novos desafios!
 
 <div align="center">
-  <a href="https://github.com/vyctordepaulo">
+  <a href="https://github.com/galdinomateus">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=galdinomateus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdinomateus&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -21,10 +21,9 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/tor_vh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/tor_vh" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vyctordepaulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vyctordepaulo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/galdinobsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:galdinomateus61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-galdino-55733016b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
     
   ![Snake animation](https://github.com/vyctordepaulo/vyctordepaulo/blob/output/github-contribution-grid-snake.svg)
