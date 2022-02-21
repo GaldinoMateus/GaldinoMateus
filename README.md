@@ -1,12 +1,13 @@
-### Eai bão? Eu sou o Vyctor de Paulo, e esse é meu git!!!
+### Eai beleza? Me chamo Mateus Galdino
 
-- 🔭 Atualmente trabalhando com Helpdesk
-- 🌱 Aprendendo C#
+- 🔭 Atualmente trabalhando como Trainee Tech no grupo UBEC
+- 🌱 Aprendendo HTML/CSS/Javascript
+- 🎉 
 
 <div align="center">
   <a href="https://github.com/vyctordepaulo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyctordepaulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctordepaulo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=galdinomateus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdinomateus&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
