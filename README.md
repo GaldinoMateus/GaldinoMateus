@@ -22,5 +22,5 @@
 
   
     
-  ![Snake animation](https://github.com/GaldinoMateus/GaldinoMateus/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GaldinoMateus/blob/output/github-contribution-grid-snake.svg)
  
