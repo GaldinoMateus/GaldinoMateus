@@ -1,8 +1,8 @@
 ### Eai beleza? Me chamo Mateus Galdino
 
-- 🔭 Atualmente trabalhando como Trainee Tech no grupo UBEC.
-- 🌱 Possuo conhecimento sólido em HTML/CSS/Javascript.
-- 😬 Aprendendo ReactJs.
+- 🔭 Atualmente estou em busca de uma vaga como DevJunior.
+- 🌱 Possuo conhecimento sólido em ReactJS/Bootstrap/HTML/CSS/Javascript.
+- 😬 Aprendendo React-Native.
 - 🎉 Gosto de novos desafios!
 
 <div align="center">
