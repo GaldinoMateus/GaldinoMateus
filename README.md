@@ -1,6 +1,5 @@
 ### Eai beleza? Me chamo Mateus Galdino
 
-- 🔭 Atualmente estou em busca de uma vaga como DevJunior.
 - 🌱 Possuo conhecimento sólido em ReactJS/Bootstrap/HTML/CSS/Javascript.
 - 😬 Aprendendo React-Native.
 - 🎉 Gosto de novos desafios!
