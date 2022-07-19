@@ -1,8 +1,8 @@
 ### Eai beleza? Me chamo Mateus Galdino
 
-- 🌱 Possuo conhecimento sólido em ReactJS/Bootstrap/HTML/CSS/Javascript.
-- 😬 Aprendendo React-Native.
-- 🎉 Gosto de novos desafios!
+- 🌱 Possuo conhecimento sólido em Java/ReactJS/Bootstrap/HTML/CSS/Javascript.
+- 😬 Aprendendo Angular
+- 🎉 Front =)!
 
 <div align="center">
   <a href="https://github.com/galdinomateus">
